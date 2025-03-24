@@ -1,0 +1,7 @@
+Ticket details: 
+Row: A
+Seat: 5
+Price: £200.0
+Name: ssdc
+Surname: advsv
+Email: sfse.@
