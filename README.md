@@ -8,16 +8,7 @@ A Java-based console application for managing airplane seat bookings. This syste
 
 - [Features](#-features)
 - [Project Structure](#-project-structure)
-- [Seat Layout](#-seat-layout)
-- [Seat Pricing](#-seat-pricing)
-- [How It Works](#-how-it-works)
-- [How to Run](#-how-to-run)
-- [Sample Output](#-sample-output)
-- [Sample Ticket File](#-sample-ticket-file)
-- [Technologies Used](#-technologies-used)
-- [Author](#-author)
-- [License](#-license)
-
+  
 ---
 
 ## 💡 Features
